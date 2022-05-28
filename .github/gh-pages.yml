@@ -3,7 +3,7 @@ name: JS-ITClub site deployment
 on:
   push:
     branches:
-      - starter-site  # Set a branch to deploy
+      - main  # Set a branch to deploy
 
 jobs:
   deploy:
